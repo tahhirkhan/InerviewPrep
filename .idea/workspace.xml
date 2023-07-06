@@ -4,7 +4,130 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a8741f1-bfae-4b3c-8d92-5716152da9e5" name="Changes" comment="Uploaded" />
+    <list default="true" id="8a8741f1-bfae-4b3c-8d92-5716152da9e5" name="Changes" comment="Uploaded">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/FindGCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/LeetCode1380.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/LeetCode1389.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/LeetCode167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/LeetCode1854.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/LeetCode54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/LeetCode73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/LeetCode989.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/MultiDimArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/RowColMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics/TwoDimArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySorting/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/InfiniteSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode1095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode1351.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode378.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode520.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/LeetCode852.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/SearchIn2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchQuestions/SortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DefaultLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LLQuestion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LLQuestion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LeetCode203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ManualLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/kunalkushwaha/CustomLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/ArrayListToHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/FindItinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/Maps2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/TopKFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/UnionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractClasses/AbstractClassConstructor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractClasses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractClasses/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractClasses/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Basics/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Basics/InnerClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Basics/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/ExceptionHandling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Generics/CustomArraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/BoxPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/BoxWithWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/SingleTon_Calsses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/SingleTon_Calsses/SingletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/NestedInterfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/SeparateClasses/CDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/SeparateClasses/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/SeparateClasses/FinalCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Interfaces/SeparateClasses/PowerEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/LambdaFunction/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Polymorphism/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Polymorphism/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/AddDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/DuplicateZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/IntersectionOFArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/IntersectionOfTwoArrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/MaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/MedianOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/PrefixSumAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/ProductOfArrayExceptItself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomPractice/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sets/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sets/SetsAndHashSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingQuestions/CycleSortQs/LeetCode268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingQuestions/CycleSortQs/LeetCode287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingQuestions/CycleSortQs/LeetCode41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingQuestions/CycleSortQs/LeetCode442.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingQuestions/CycleSortQs/LeetCode448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingQuestions/CycleSortQs/LeetCode645.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilder/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/MaxSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/NextGreaterElement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/RemoveVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/SumOfSquareNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/ThreeSumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/ValidPalindrome2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayBasics/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,29 +136,139 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt:///home/tahhirkhann/Downloads/JDK!/java.base/java/util/function/Consumer.class" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2JcvBL8CGnrkAh2bBO6hJtbitxR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.sync"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OOPS.Generics" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LeetCode1854" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayBasics.LeetCode1854" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingQuestions.CycleSortQs.LeetCode41" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortingQuestions.CycleSortQs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingQuestions.CycleSortQs.LeetCode442" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortingQuestions.CycleSortQs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode645" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingQuestions.CycleSortQs.LeetCode645" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortingQuestions.CycleSortQs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayBasics.LeetCode989" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode41" />
+        <item itemvalue="Application.LeetCode1854" />
+        <item itemvalue="Application.LeetCode989" />
+        <item itemvalue="Application.LeetCode645" />
+        <item itemvalue="Application.LeetCode442" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,10 +285,32 @@
       <option name="project" value="LOCAL" />
       <updated>1672423912910</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Uploaded">
+      <created>1672424155301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672424155301</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="4dfdad86-88ae-4230-8993-455fd767bde0">
@@ -65,7 +320,19 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="cbde790a-f196-487f-8c9a-76f9f2201dc0">
@@ -82,8 +349,19 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CODE_SMELLS_PROFILE" value="Default" />
     <MESSAGE value="Uploaded" />
     <option name="LAST_COMMIT_MESSAGE" value="Uploaded" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/out/production/Project1/OOPS/Basics/Human.class</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
